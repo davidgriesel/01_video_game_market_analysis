@@ -1,2 +1,2 @@
-# CF-01-Descriptive Analysis
+# 01-video-game-sales-analysis
 Project File - CareerFoundry Data Analytics Course
