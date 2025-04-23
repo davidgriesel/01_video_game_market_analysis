@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 
 ```text
 ├── data/                 # Cleaned dataset (text file)
-├── workbooks/            # Excel Workbooks
 ├── deliverables/         # Presentation (KeyNote & pdf including presenters notes)
+├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project license (MIT)
 └── README.md             # Project overview
