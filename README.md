@@ -1,57 +1,56 @@
-# 🎮 01-video-game-sales-analysis
+# Video Game Market Analysis: GameCo
 
-This project presents a descriptive analysis of historical video game sales data for **GameCo**, a hypothetical game development company. The goal is to extract insights that can inform game development, marketing strategy, and competitive positioning by understanding sales trends across genres, platforms, time periods, and geographic regions.
+*This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
-## 📌 Objectives
+## Overview
 
-- Identify popular game genres and platforms to guide future game development
-- Evaluate key competitors based on publisher performance
-- Analyse changes in game popularity over time
-- Compare sales performance across geographic regions
+GameCo’s board is preparing the 2017 marketing budget and assumes that regional video game sales trends and market shares remained consistent over time. This analysis test that assumption.
 
-## 🛠️ Tools Used
+## Key Questions
+- Are certain types of games more popular than others?
+- What publishers dominate specific markets or regions?
+- Have any games or genres increased or decreased in popularity over time?
+- Have regional sales trends shifted, or do they remain consistent?
 
-- Excel (data exploration, pivot tables, visualisations)
+## Tools Used 
 
-## 📊 Key Results
+- **Excel** - Data Profiling | Cleaning | Analysis
+- **KeyNote** - Presentation
 
-- Action and sports games consistently perform well globally, especially in North America
-- Major publishers such as Nintendo and Electronic Arts dominate sales across multiple genres
-- Game popularity fluctuates over time, with trends influenced by platform and genre innovation
-- Regional differences in genre preference highlight the importance of market-specific strategies
+## Skills Demonstrated
 
-## 📁 Data Overview
+- Data Exploration | Description | Profiling | Quality & Integrity Assessment | Cleaning
+- Descriptive Statistics | Trend Analysis
+- Deriving Insights | Data Visualisation | Storytelling
 
-The dataset was sourced from **VGChartz**, which tracks global video game sales for titles that have sold more than 10,000 units between 1980 and 2016. The data includes variables such as platform, genre, publisher, and sales by region.
+## Data Used
+The original dataset was sourced from **VGChartz**, and provided by **CareerFoundry** as part of their Data Analytics Course. An additional modified version was provided for practicing cleaning principles. 
 
-🔗 [VGChartz Methodology](http://www.vgchartz.com/methodology.php)  
-🔗 [Download Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+[VGChartz Methodology](http://www.vgchartz.com/methodology.php) | [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx) | [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)  
 
-Due to licensing considerations, the original raw file is not included in this repository.  
-A cleaned and structured version (`data/cleaned_vgsales.csv`) is available for reference.  
-More details on the cleaning process can be found in [`data/data_README.md`](data/data_README.md).
 
-## 📈 Visuals
+## Deliverables
+- Presentation (KeyNote | pdf)
 
-The analysis includes:
-- Bar charts showing top-selling genres and platforms
-- Box plots comparing regional performance
-- Time series visualisations of sales trends by year
+## Takeaways
+- **Successes**: The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
 
-Visualisations are included in:
-- `notebooks/vgsales_analysis.ipynb`
-- `visuals/` folder (exported images for easy preview)
+- **Challenges**: Managing scope was a key challenge. With many interesting patterns in the data, it was easy to stray from the brief. Balancing depth with executive relevance required restraint, and the tendency to over-communicate insights highlighted the importance of concise messaging.
 
-## 📋 Project Deliverables
+- **Way Forward**: Future efforts should stay closely aligned with stakeholder goals before exploring adjacent questions. Executive materials should favour clarity—brief bullets on slides, with detailed context reserved for presenter notes.
+A regional breakdown of total sales volume would enhance the overall analysis and strengthen the response to Question 4 by clarifying when and where demand shifted toward digital formats.
+Next steps could include sourcing digital sales data to compare trends with historical physical sales. 
 
-This project was completed as part of the **CareerFoundry Data Analytics Program**, fulfilling the criteria for an end-to-end descriptive analysis. The work involved:
-- Data exploration and cleaning
-- Grouping and summarising using pivot tables
-- Descriptive statistics and trend analysis
-- Insight generation and visual storytelling
 
-It addresses stakeholder questions from multiple business perspectives, including marketing, finance, and sales.
+## 📄 License
+This project is licensed under the MIT License.
 
----
 
-*This analysis is intended for demonstration purposes only. It is not affiliated with VGChartz or any actual game publisher.*
+## 🗂 Repository Structure
+
+```text
+├── data/                 # Cleaned dataset (text file)
+├── workbooks/            # Excel Workbooks
+├── deliverables/         # Presentation (KeyNote & pdf including presenters notes)
+├── LICENSE               # Project license (MIT)
+└── README.md             # Project overview
