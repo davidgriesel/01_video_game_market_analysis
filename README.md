@@ -4,7 +4,7 @@
 
 ## Overview
 
-GameCo’s board is preparing the 2017 marketing budget and assumes that regional video game sales trends and market shares remained consistent over time. This analysis test that assumption.
+- GameCo’s board is preparing the 2017 marketing budget and assumes that regional video game sales trends and market shares remained consistent over time. This analysis test that assumption.
 
 ## Key Questions
 - Are certain types of games more popular than others?
@@ -24,11 +24,11 @@ GameCo’s board is preparing the 2017 marketing budget and assumes that regiona
 - Deriving Insights | Data Visualisation | Storytelling
 
 ## Data Used
-The original dataset was sourced from **VGChartz**, and provided by **CareerFoundry** as part of their Data Analytics Course. An additional modified version was provided for practicing cleaning principles. 
+- The original dataset was sourced from **VGChartz**, and provided by **CareerFoundry** as part of their Data Analytics Course. An additional modified version was provided for practicing cleaning principles. 
 
-[VGChartz Methodology](http://www.vgchartz.com/methodology.php)   
-[Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)   
-[Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)  
+- [VGChartz Methodology](http://www.vgchartz.com/methodology.php)   
+- [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)   
+- [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)  
 
 
 ## Deliverables
@@ -45,7 +45,7 @@ Next steps could include sourcing digital sales data to compare trends with hist
 
 
 ## License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
 
 ## Repository Structure
