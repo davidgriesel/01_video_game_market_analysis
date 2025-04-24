@@ -31,9 +31,11 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 
 ## Data Used
 
-The original dataset was sourced from [**VGChartz**](http://www.vgchartz.com/methodology.php) that covers the period 1980 to 2020. A modified version was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course. 
+The original dataset was sourced from **VGChartz** that covers the period 1980 to 2020. A modified version was provided by **CareerFoundry** as part of their Data Analytics Course. 
 
 - [**Video Game Sales**](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx) - Number of units sold by title, release year, platform, genre, publisher, region
+
+[**Collection Method**](http://www.vgchartz.com/methodology.php)
 
 
 ## Deliverables
