@@ -28,7 +28,7 @@ The original dataset was sourced from [**VGChartz**](http://www.vgchartz.com/met
 [**Video Game Sales**](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx) - Number of units sold by title, release year, platform, genre, publisher, region
 
 ## Deliverables
-[**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables)
+[**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables) - KeyNote | pdf including & excluding presenters notes
 
 ## Takeaways
 **Successes** - The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
@@ -47,8 +47,8 @@ This project is licensed under the MIT License.
 ## Repository Structure
 
 ```text
-├── data/                 # Cleaned Dataset (csv)
-├── deliverables/         # Presentation (KeyNote & pdf including presenters notes)
+├── data/                 # Cleaned Dataset
+├── deliverables/         # Presentation
 ├── workbooks/            # Excel Workbooks
-├── LICENSE               # Project License (MIT)
+├── LICENSE               # Project License
 └── README.md             # Project Overview
