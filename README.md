@@ -1,16 +1,16 @@
-# Video Game Market Analysis: GameCo
+# Video Game Market Analysis
 
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
 
-GameCo’s board is preparing the 2017 marketing budget and assumes that regional video game sales trends and market shares remained consistent over time. This analysis test that assumption.
+A video game company’s board is preparing its 2017 marketing budget based on the assumption that regional sales trends and market shares have remained stable over time. This analysis challenges that assumption by examining how genre preferences, sales performance, and publisher dynamics have changed—and whether these patterns differ across regions.
 
 ## Key Questions
-- Are certain types of games more popular than others?
-- What publishers dominate specific markets or regions?
-- Have any games or genres increased or decreased in popularity over time?
-- Have regional sales trends shifted, or do they remain consistent?
+1. Are certain types of games more popular than others?
+2. What publishers dominate specific markets or regions?
+3. Have any games or genres increased or decreased in popularity over time?
+4. Have regional sales trends shifted, or do they remain consistent?
 
 ## Tools Used 
 
@@ -24,15 +24,16 @@ GameCo’s board is preparing the 2017 marketing budget and assumes that regiona
 - Deriving Insights | Data Visualisation | Storytelling
 
 ## Data Used
-The original dataset was sourced from **VGChartz**, and provided by **CareerFoundry** as part of their Data Analytics Course. An additional modified version was provided for practicing cleaning principles. 
+The original dataset was sourced from **VGChartz** that covers the period 1980 to 2020. A modified version was provided by **CareerFoundry** as part of their Data Analytics Course.
 
-- [VGChartz Methodology](http://www.vgchartz.com/methodology.php)   
-- [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)   
-- [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)  
+- [**Video Game Sales**](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx) - Number of units sold by title, release year, platform, genre, publisher, region
+
+**Other Links**
+[VGChartz Methodology](http://www.vgchartz.com/methodology.php)   
 
 
 ## Deliverables
-- Presentation (KeyNote | pdf)
+- Presentation
 
 ## Takeaways
 **Successes** - The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
@@ -51,8 +52,8 @@ This project is licensed under the MIT License.
 ## Repository Structure
 
 ```text
-├── data/                 # Cleaned dataset (text file)
+├── data/                 # Cleaned Dataset (csv)
 ├── deliverables/         # Presentation (KeyNote & pdf including presenters notes)
 ├── workbooks/            # Excel Workbooks
-├── LICENSE               # Project license (MIT)
-└── README.md             # Project overview
+├── LICENSE               # Project License (MIT)
+└── README.md             # Project Overview
