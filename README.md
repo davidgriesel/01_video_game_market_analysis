@@ -28,7 +28,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 
 - [**Video Game Sales**](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx) - Number of units sold by title, release year, platform, genre, publisher, region
 
-**Other Links**
+**Other Links**     
 [VGChartz Methodology](http://www.vgchartz.com/methodology.php)   
 
 
