@@ -40,6 +40,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 
 [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables) - KeyNote | pdf including & excluding presenters notes
 
+---
 
 ## Takeaways
 
