@@ -56,6 +56,7 @@ Next steps could include sourcing digital sales data to compare trends with hist
 
 This project is licensed under the MIT License.
 
+
 ## Repository Structure
 
 ```text
