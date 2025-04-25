@@ -29,7 +29,7 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 - Deriving Insights | Visualisation | Presentation
 
 
-## Data Used
+## Data Sourced
 
 The original dataset was sourced from **VGChartz** that covers the period 1980 to 2020. A modified version was provided by **CareerFoundry** as part of their Data Analytics Course. 
 
