@@ -28,7 +28,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 1. Are certain types of games more popular than others?
 2. What publishers dominate specific markets or regions?
 3. Have any games or genres increased or decreased in popularity over time?
-4. Have regional sales trends shifted, or do they remain consistent?-->
+4. Have regional sales trends shifted, or do they remain consistent?
 
 ## Key Insights
 ### 1. Changing Dynamics in Distribution
