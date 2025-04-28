@@ -24,7 +24,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf)
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - Including presenters notes.
 
-## Key Questions
+<!--## Key Questions
 1. Are certain types of games more popular than others?
 2. What publishers dominate specific markets or regions?
 3. Have any games or genres increased or decreased in popularity over time?
