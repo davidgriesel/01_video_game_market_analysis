@@ -52,7 +52,7 @@ A regional breakdown of total sales volume would enhance the overall analysis an
 Next steps could include sourcing digital sales data to compare trends with historical physical sales. -->
 
 
-<!--## License-->
+<!--## License
 
 This project is licensed under the MIT License.
 
@@ -63,4 +63,4 @@ This project is licensed under the MIT License.
 ├── deliverables/         # Presentation
 ├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project License
-└── README.md             # Project Overview
+└── README.md             # Project Overview-->
