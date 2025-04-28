@@ -32,10 +32,10 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 1. Are certain types of games more popular than others?
 2. What publishers dominate specific markets or regions?
 3. Have any games or genres increased or decreased in popularity over time?
-4. Have regional sales trends shifted, or do they remain consistent?-->
+4. Have regional sales trends shifted, or do they remain consistent?
 
 
-<!--## Takeaways
+## Takeaways
 **Successes** - The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
 
 **Challenges** - Managing scope was a key challenge. With many interesting patterns in the data, it was easy to stray from the brief. Balancing depth with executive relevance required restraint, and the tendency to over-communicate insights highlighted the importance of concise messaging.
@@ -43,15 +43,3 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 **Way Forward** - Future efforts should stay closely aligned with stakeholder goals before exploring adjacent questions. Executive materials should favour clarity—brief bullets on slides, with detailed context reserved for presenter notes.
 A regional breakdown of total sales volume would enhance the overall analysis and strengthen the response to Question 4 by clarifying when and where demand shifted toward digital formats.
 Next steps could include sourcing digital sales data to compare trends with historical physical sales.
-
-
-## License
-This project is licensed under the MIT License.
-
-
-## Repository Structure
-```text
-├── deliverables/         # Presentation
-├── workbooks/            # Excel Workbooks
-├── LICENSE               # Project License
-└── README.md             # Project Overview-->
