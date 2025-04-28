@@ -1,10 +1,8 @@
 # Video Game Market Analysis
-
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 
 ## Overview
-
 A video game company’s board is preparing its 2017 marketing budget based on the assumption that regional sales trends and market shares have remained stable over time. This analysis challenges that assumption by examining how genre preferences, sales performance, and publisher dynamics have changed—and whether these patterns differ across regions.
 
 
@@ -17,30 +15,25 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 
 
 ## Tools
-
 - **Excel** - Data Preparation | Visualisation | Analysis
 - **KeyNote** - Presentation
 
 
 ## Process
-
 - Data Exploration | Description | Profiling | Cleaning
 - Descriptive Statistics | Trend Analysis
 - Deriving Insights | Visualisation | Presentation
 
 
 ## Data
-
 The original dataset was sourced from **VGChartz** that covers the period 1980 to 2020. A modified version was provided by **CareerFoundry** as part of their Data Analytics Course. 
 
 - [**Video Game Sales**](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx) - Number of units sold by title, release year, platform, genre, publisher, region.
 
 
 ## Links
-
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables) - KeyNote
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf) - pdf without presenters notes.
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - pdf with presenters notes.
+- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf)
+- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - Including presenters notes.
 
 
 <!--## Takeaways
