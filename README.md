@@ -38,8 +38,9 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 
 ## Links
 
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf) - KeyNote without presenters notes.
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - KeyNote with presenters notes.
+- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables) - KeyNote
+- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf) - pdf without presenters notes.
+- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - pdf with presenters notes.
 
 
 <!--## Takeaways
