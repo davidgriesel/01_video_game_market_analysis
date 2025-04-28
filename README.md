@@ -31,21 +31,110 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 4. Have regional sales trends shifted, or do they remain consistent?
 
 ## Key Insights
-### 1. Sales and Output rose steadily from the mid nineties, but show sharp decline from 2008 with the rise of digital platforms.
+### 1. Changing Dynamics in Distribution
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
-    <img src="visuals/pie-deaths-agepng.png" ><br>
-    <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
-</td>
-<td align="center" valign="top" width="50%">
-    <img src="visuals/scatter-correlation.png" ><br>
-    <em>There is a strong positive correlation between population size and influenza-related deaths among older adults, particularly those aged 65+. This relationship weakens in younger groups, where mortality is lower and data suppression increases uncertainty.</em>
+<td align="center" valign="top" width="100%">
+    <img src="visualisations/sales-titles-over-time.png" ><br>
+    <em>Sales and title output rose steadily from the mid-1990s, peaking around 2008, before declining sharply. The downward trend coincides with the rise of digital platforms, suggesting a shift in market dynamics rather than an actual contraction, and confirms potential estimation bias in the dataset.</em>
 </td>
 </tr>
 </table>
 <br>
+
+### 2. 
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/IMAGE.png" ><br>
+    <em>Insert caption here.*/em>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/IMAGE.png" ><br>
+    <em>Insert caption here.*/em>
+</td>
+</tr>
+</table>
+<br>
+
+### 3. 
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/image1.png"><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/image2.png"><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+    <em>Caption describing both images above.</em>
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/image3.png"><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/image4.png"><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+    <em>Caption describing both images above.</em>
+</td>
+</tr>
+</table>
+<br>
+        
+### 4. Sales Dominated by a Few Major Publishers
+
+<table>
+<tr>
+<td align="center" valign="top" width="100%">
+    <img src="visualisations/dominating-publishers.png" ><br>
+    <em>A small number of publishers dominate the global market, with Nintendo leading at approximately 1,786.6 million units, followed by EA (1,110.3M) and Activision (727.5M).</em>
+</td>
+</tr>
+</table>
+<br>
+
+### 5. 
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-america.png" ><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-europe.png" ><br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-japan.png" ><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-other.png" ><br>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+    <em>Caption describing both images above.</em>
+</td>
+</tr>
+</table>
+<br>
+        
+
+
 
 
 ## Key Recommendations
