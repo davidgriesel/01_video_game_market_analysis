@@ -24,12 +24,6 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf)
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - Including presenters notes.
 
-<!--## Key Questions
-1. Are certain types of games more popular than others?
-2. What publishers dominate specific markets or regions?
-3. Have any games or genres increased or decreased in popularity over time?
-4. Have regional sales trends shifted, or do they remain consistent?
-
 ## Key Insights
 ### Insight 1: Apparent Market Contraction Reflects Estimation Bias During Digital Transition
 <table>
@@ -84,18 +78,48 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </table>
 <br>
 
-### 4. Sales Dominated by a Few Major Publishers
+### Insight 4: Regional Genre Efficiency Shifted Over Time
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-america.png""><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-europe.png"><br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-japan.png"><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-other.png"><br>
+</td>
+</tr>
+<tr>
+</table>
+
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/dominating-publishers.png" ><br>
-    <em>A small number of publishers dominate the global market, with Nintendo leading at approximately 1,786.6 million units, followed by EA (1,110.3M) and Activision (727.5M).</em>
+    <em>Genre efficiency shifted alongside sales trends, with Shooter overtaking Platform to become the strongest performer in all regions except Japan, where Role-Playing remained dominant. Action posted only moderate average returns despite high total sales volumes.</em>
 </td>
 </tr>
 </table>
 <br>
 
-### 5. Publisher Dominance Evolved Globally and Diverged in Japan
+### Insight 5: The Competitive Landscape is Dominated by a Few Major Publishers
+<table>
+<tr>
+<td align="center" valign="top" width="100%">
+    <img src="visualisations/dominating-publishers.png" ><br>
+    <em>Global video game sales are dominated by a few major publishers, with Nintendo leading at nearly 1.8 billion units, followed by EA and Activision with significantly lower totals. In contrast, the vast majority of publishers account for only a tiny fraction of total sales, underscoring the market’s extreme concentration.</em>
+</td>
+</tr>
+</table>
+<br>
+
+### Insight 6: Publisher Dominance Evolved Globally and Diverged in Japan
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -128,20 +152,12 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </table>
 <br>
 
-## Key Recommendations
-1. Interpret physical trends cautiously and prioritise digital data acquisition to reflect true market dynamics.
-2. Reallocate marketing resources to Europe as emerging market.
-3. Adopt regional strategies - Shooter and Sports Globally, Action and Role-Playing in Japan.
-4. Position against EA in Europe, Activision in North America, and monitor the rise of Ubisoft as a possible long term competitor. Shift focus from Nintendo to Namco Bandai and Square Enix in Japan. 
- 
 ## Takeaways
 ### Successes
 The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
 
 ### Challenges
-Managing scope was a key challenge. With many interesting patterns in the data, it was easy to stray from the brief. Balancing depth with executive relevance required restraint, and the tendency to over-communicate insights highlighted the importance of concise messaging.
+Managing scope was a key challenge. It was tempting to pursue additional lines of analysis, for example around per-title performance. Staying focused on the core objectives required discipline, prioritisation, and restraint. The experience reinforced the importance of addressing stakeholder questions first, before exploring adjacent insights.
 
 ### Way Forward
-Future efforts should stay closely aligned with stakeholder goals before exploring adjacent questions. Executive materials should favour clarity—brief bullets on slides, with detailed context reserved for presenter notes.
-A regional breakdown of total sales volume would enhance the overall analysis and strengthen the response to Question 4 by clarifying when and where demand shifted toward digital formats.
-Next steps could include sourcing digital sales data to compare trends with historical physical sales.
+Future projects should begin with a more structured plan — outlining key questions, priorities, and intended deliverables — to maintain focus, prevent scope drift, and ensure that insights remain tightly aligned with project objectives.
