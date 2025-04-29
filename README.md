@@ -40,7 +40,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
 ### Insight 2: Regional Market Dominance Shifted to Europe
 <table>
@@ -51,7 +51,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
 ### Insight 3: Action Loses Global Preference but Gains Ground in Japan
 <table width="100%">
@@ -81,7 +81,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
 ### Insight 4: Regional Genre Efficiency Shifted Over Time
 <table width="100%">
@@ -111,7 +111,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
 ### Insight 5: The Competitive Landscape is Dominated by a Few Major Publishers
 <table>
@@ -122,7 +122,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
 ### Insight 6: Publisher Dominance Evolved Globally and Diverged in Japan
 <table width="100%">
@@ -152,7 +152,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
 ## Takeaways
 ### Successes
