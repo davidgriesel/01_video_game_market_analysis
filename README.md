@@ -32,7 +32,6 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 
 ## Key Insights
 ### 1. Changing Dynamics in Distribution
-
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
@@ -43,59 +42,51 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </table>
 <br>
 
-### 2. 
-
+### 2. Regional Market Share has Shifted
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/IMAGE.png" ><br>
-    <em>Insert caption here.*/em>
-</td>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/IMAGE.png" ><br>
-    <em>Insert caption here.*/em>
+<td align="center" valign="top" width="100%">
+    <img src="visualisations/shifts-regional-markets.png" ><br>
+    <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share — though likely influenced by the shift to digital distribution.</em>
 </td>
 </tr>
 </table>
 <br>
 
-### 3. 
+### 3. Action Loses Global Preference but Gains Ground in Japan
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-total-america.png""><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-total-europe.png"><br>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-total-japan.png"><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-total-other.png"><br>
+</td>
+</tr>
+<tr>
+</table>
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/image1.png"><br>
-</td>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/image2.png"><br>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-    <em>Caption describing both images above.</em>
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/image3.png"><br>
-</td>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/image4.png"><br>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-    <em>Caption describing both images above.</em>
+<td align="center" valign="top" width="100%">
+    <em>Shooter overtook Action in North America, both Shooter and Sports surpassed Action in Europe and the Other region, and Role-Playing led in Japan until Action took over late in the period.</em>
 </td>
 </tr>
 </table>
 <br>
-        
+
 ### 4. Sales Dominated by a Few Major Publishers
-
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
@@ -106,41 +97,45 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </table>
 <br>
 
-### 5. 
+### 5. Publisher Dominance Evolved Globally and Diverged in Japan
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-america.png""><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-europe.png"><br>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-japan.png"><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-publisher-other.png"><br>
+</td>
+</tr>
+<tr>
+</table>
 
 <table>
 <tr>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-america.png" ><br>
-</td>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-europe.png" ><br>
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-japan.png" ><br>
-</td>
-<td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-other.png" ><br>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-    <em>Caption describing both images above.</em>
+<td align="center" valign="top" width="100%">
+    <em>EA maintained dominance in Europe and Other, while Ubisoft surged late to top Activision in North America. Nintendo declined everywhere, and gave leadership to Namco Bandai and Square Enix in Japan</em>
 </td>
 </tr>
 </table>
 <br>
-        
-
-
-
 
 ## Key Recommendations
-
-
-
+1. Interpret physical trends cautiously and prioritise digital data acquisition to reflect true market dynamics.
+2. Reallocate marketing resources to Europe as emerging market.
+3. Adopt regional strategies - Shooter and Sports Globally, Action and Role-Playing in Japan.
+4. Position against EA in Europe, Activision in North America, and monitor the rise of Ubisoft as a possible long term competitor. Shift focus from Nintendo to Namco Bandai and Square Enix in Japan. 
+ 
 ## Takeaways
 ### Successes
 The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
