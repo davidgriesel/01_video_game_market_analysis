@@ -24,36 +24,29 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf)
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - Including presenters notes.
 
-<!--## Key Questions
-1. Are certain types of games more popular than others?
-2. What publishers dominate specific markets or regions?
-3. Have any games or genres increased or decreased in popularity over time?
-4. Have regional sales trends shifted, or do they remain consistent?
-
 ## Key Insights
-### 1. Changing Dynamics in Distribution
+### Insight 1: Apparent Market Contraction Reflects Estimation Bias During Digital Transition
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
     <img src="visualisations/sales-titles-over-time.png" ><br>
-    <em>Sales and title output rose steadily from the mid-1990s, peaking around 2008, before declining sharply. The downward trend coincides with the rise of digital platforms, suggesting a shift in market dynamics rather than an actual contraction, and confirms potential estimation bias in the dataset.</em>
+    <em>Sales and title output rose steadily until 2008, then declined sharply amid the rise of digital platforms, reflecting a structural market shift and estimation bias in the dataset.
+</em>
 </td>
 </tr>
 </table>
-<br>
 
-### 2. Regional Market Share has Shifted
+### Insight 2: Regional Market Dominance Shifted to Europe
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
     <img src="visualisations/shifts-regional-markets.png" ><br>
-    <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share — though likely influenced by the shift to digital distribution.</em>
+    <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share, though likely influenced by the transition to digital distribution.</em>
 </td>
 </tr>
 </table>
-<br>
 
-### 3. Action Loses Global Preference but Gains Ground in Japan
+### Insight 3: Action Loses Global Preference but Gains Ground in Japan
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -63,9 +56,6 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
     <img src="visualisations/shifts-total-europe.png"><br>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visualisations/shifts-total-japan.png"><br>
@@ -80,24 +70,51 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <em>Shooter overtook Action in North America, both Shooter and Sports surpassed Action in Europe and the Other region, and Role-Playing led in Japan until Action took over late in the period.</em>
+    <em>Shooter overtook Action in North America, while Shooter and Sports surpassed it in Europe and the Other region, reflecting evolving platform trends and player preferences. Japan diverged, with Role-Playing dominant until Action rose late in the period.</em>
 </td>
 </tr>
 </table>
-<br>
 
-### 4. Sales Dominated by a Few Major Publishers
+### Insight 4: Regional Genre Efficiency Shifted Over Time
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-america.png""><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-europe.png"><br>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-japan.png"><br>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visualisations/shifts-avg-other.png"><br>
+</td>
+</tr>
+<tr>
+</table>
+
+<table>
+<tr>
+<td align="center" valign="top" width="100%">
+    <em>Genre efficiency shifted alongside sales trends, with Shooter overtaking Platform to become the strongest performer in all regions except Japan, where Role-Playing remained dominant. Action posted only moderate average returns despite high total sales volumes.</em>
+</td>
+</tr>
+</table>
+
+### Insight 5: The Competitive Landscape is Dominated by a Few Major Publishers
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
     <img src="visualisations/dominating-publishers.png" ><br>
-    <em>A small number of publishers dominate the global market, with Nintendo leading at approximately 1,786.6 million units, followed by EA (1,110.3M) and Activision (727.5M).</em>
+    <em>Global video game sales are dominated by a few major publishers, with Nintendo leading at nearly 1.8 billion units, followed by EA and Activision with significantly lower totals. In contrast, the vast majority of publishers account for only a tiny fraction of total sales, underscoring the market’s extreme concentration.</em>
 </td>
 </tr>
 </table>
-<br>
 
-### 5. Publisher Dominance Evolved Globally and Diverged in Japan
+### Insight 6: Publisher Dominance Evolved Globally and Diverged in Japan
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -107,9 +124,6 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
     <img src="visualisations/shifts-publisher-europe.png"><br>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visualisations/shifts-publisher-japan.png"><br>
@@ -128,22 +142,13 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 </td>
 </tr>
 </table>
-<br>
 
-## Key Recommendations
-1. Interpret physical trends cautiously and prioritise digital data acquisition to reflect true market dynamics.
-2. Reallocate marketing resources to Europe as emerging market.
-3. Adopt regional strategies - Shooter and Sports Globally, Action and Role-Playing in Japan.
-4. Position against EA in Europe, Activision in North America, and monitor the rise of Ubisoft as a possible long term competitor. Shift focus from Nintendo to Namco Bandai and Square Enix in Japan. 
- 
 ## Takeaways
 ### Successes
 The project met its core objectives by revealing actionable insights into genre preferences, regional shifts, and publisher dynamics. It clarified executive questions and challenged assumptions about market consistency, while confirming the industry’s shift from physical to digital formats.
 
 ### Challenges
-Managing scope was a key challenge. With many interesting patterns in the data, it was easy to stray from the brief. Balancing depth with executive relevance required restraint, and the tendency to over-communicate insights highlighted the importance of concise messaging.
+Managing scope was a key challenge. It was tempting to pursue additional lines of analysis, for example around per-title performance. Staying focused on the core objectives required discipline, prioritisation, and restraint. The experience reinforced the importance of addressing stakeholder questions first, before exploring adjacent insights.
 
 ### Way Forward
-Future efforts should stay closely aligned with stakeholder goals before exploring adjacent questions. Executive materials should favour clarity—brief bullets on slides, with detailed context reserved for presenter notes.
-A regional breakdown of total sales volume would enhance the overall analysis and strengthen the response to Question 4 by clarifying when and where demand shifted toward digital formats.
-Next steps could include sourcing digital sales data to compare trends with historical physical sales.
+Future projects should begin with a more structured plan — outlining key questions, priorities, and intended deliverables — to maintain focus, prevent scope drift, and ensure that insights remain tightly aligned with project objectives.
