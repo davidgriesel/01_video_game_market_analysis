@@ -31,29 +31,30 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 4. Have regional sales trends shifted, or do they remain consistent?
 
 ## Key Insights
-### 1. Changing Dynamics in Distribution
+### Insight 1: Apparent Market Contraction Reflects Estimation Bias During Digital Transition
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
     <img src="visualisations/sales-titles-over-time.png" ><br>
-    <em>Sales and title output rose steadily from the mid-1990s, peaking around 2008, before declining sharply. The downward trend coincides with the rise of digital platforms, suggesting a shift in market dynamics rather than an actual contraction, and confirms potential estimation bias in the dataset.</em>
+    <em>Sales and title output rose steadily until 2008, then declined sharply amid the rise of digital platforms, reflecting a structural market shift and estimation bias in the dataset.
+</em>
 </td>
 </tr>
 </table>
 <br>
 
-### 2. Regional Market Share has Shifted
+### Insight 2: Regional Market Dominance Shifted to Europe
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
     <img src="visualisations/shifts-regional-markets.png" ><br>
-    <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share — though likely influenced by the shift to digital distribution.</em>
+    <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share, though likely influenced by the transition to digital distribution.</em>
 </td>
 </tr>
 </table>
 <br>
 
-### 3. Action Loses Global Preference but Gains Ground in Japan
+### Insight 3: Action Loses Global Preference but Gains Ground in Japan
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -63,9 +64,6 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
     <img src="visualisations/shifts-total-europe.png"><br>
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
     <img src="visualisations/shifts-total-japan.png"><br>
@@ -80,7 +78,7 @@ The original dataset was sourced from **VGChartz** that covers the period 1980 t
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <em>Shooter overtook Action in North America, both Shooter and Sports surpassed Action in Europe and the Other region, and Role-Playing led in Japan until Action took over late in the period.</em>
+    <em>Shooter overtook Action in North America, while Shooter and Sports surpassed it in Europe and the Other region, reflecting evolving platform trends and player preferences. Japan diverged, with Role-Playing dominant until Action rose late in the period.</em>
 </td>
 </tr>
 </table>
