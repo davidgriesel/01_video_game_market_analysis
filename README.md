@@ -17,16 +17,16 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 <br><br>
 
 ## Data
-The original dataset was sourced from VGChartz that covers the period 1980 to 2020. A modified version was provided by CareerFoundry as part of their Data Analytics Course. 
+The original dataset was sourced from VGChartz, covering the period 1980 to 2020. A modified version was provided by CareerFoundry as part of their Data Analytics programme. 
 
 - [**Video Game Sales**](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx) - Number of units sold by title, release year, platform, genre, publisher, region.
 
-***Note:** Sales figures prior to 2018 are based on extrapolated retail data and include estimates for digital sales. This introduces potential sampling and estimation biases, meaning figures may not fully represent actual market totals or digital performance.*
+***Note:** Sales figures prior to 2018 are based on extrapolated retail data and estimated digital sales. This introduces potential sampling and estimation biases, meaning figures may not fully represent actual market totals or digital performance.*
 <br><br>
 
 ## Links
 - [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf)
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - Including presenters notes.
+- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - including presenter's notes.
 <br><br>
 
 ## Key Insights
@@ -148,7 +148,7 @@ The original dataset was sourced from VGChartz that covers the period 1980 to 20
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <em>EA maintained dominance in Europe and Other, while Ubisoft surged late to top Activision in North America. Nintendo declined everywhere, and gave leadership to Namco Bandai and Square Enix in Japan</em>
+    <em>EA maintained dominance in Europe and Other, while Ubisoft surged late to top Activision in North America. Nintendo declined everywhere, and ceded leadership to Namco Bandai and Square Enix in Japan</em>
 </td>
 </tr>
 </table>
