@@ -1,5 +1,5 @@
 # Video Game Market Analysis
-*This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
+*This project was completed as part of the [CareerFoundry Data Analytics Programme](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
 ## Overview
 A video game company’s board is preparing its 2017 marketing budget based on the assumption that regional sales trends and market shares have remained stable over time. This analysis challenges that assumption by examining if genre preferences, sales performance, and publisher dynamics have changed, and whether trends differ across regions.
@@ -11,9 +11,9 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 <br><br>
 
 ## Process
-- Data Description | Profiling | Exploration | Cleaning
-- Descriptive Statistics | Trend Analysis
-- Deriving Insights | Visualisation | Presentation
+- **Data Preparation** - Data Description | Profiling | Exploration | Cleaning
+- **Analysis** - Descriptive Statistics | Trend Analysis
+- **Communication** - Deriving Insights | Visualisation | Presentation
 <br><br>
 
 ## Data
