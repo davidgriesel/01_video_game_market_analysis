@@ -13,7 +13,7 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 ## Process
 - **Data Preparation** - Data Description | Profiling | Exploration | Cleaning
 - **Analysis** - Descriptive Statistics | Trend Analysis
-- **Communication** - Deriving Insights | Visualisation | Presentation
+- **Communication** - Visualisation | Presentation
 <br><br>
 
 ## Data
