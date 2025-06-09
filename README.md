@@ -25,8 +25,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <br><br>
 
 ## Links
-- [**Presentation**](https://github.com/davidgriesel/01_video_game_market_analysis/tree/main/deliverables/presentation.pdf)
-- [**Presentation**](https://github.com/davidgriesel/01_video_game_market_analysis/blob/main/deliverables/presentation_with_notes.pdf) - including presenter's notes.
+- [**Presentation**](deliverables/presentation.pdf)
+- [**Presentation**](deliverables/presentation_with_notes.pdf) - including presenter's notes.
 <br><br>
 
 ## Key Insights
