@@ -25,8 +25,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <br><br>
 
 ## Links
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/tree/main/deliverables/presentation.pdf)
-- [**Presentation**](https://github.com/davidgriesel/01-video-game-market-analysis/blob/main/deliverables/presentation-with-notes.pdf) - including presenter's notes.
+- [**Presentation**](https://github.com/davidgriesel/01_video_game_market_analysis/tree/main/deliverables/presentation.pdf)
+- [**Presentation**](https://github.com/davidgriesel/01_video_game_market_analysis/blob/main/deliverables/presentation_with_notes.pdf) - including presenter's notes.
 <br><br>
 
 ## Key Insights
@@ -34,7 +34,7 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/sales-titles-over-time.png" ><br>
+    <img src="visualisations/sales_titles_over_time.png" ><br>
     <em>Sales and title output rose steadily until 2008, then declined sharply amid the rise of digital platforms, reflecting a structural market shift and estimation bias in the dataset.
 </em>
 </td>
@@ -46,7 +46,7 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/shifts-regional-markets.png" ><br>
+    <img src="visualisations/shifts_regional_markets.png" ><br>
     <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share, though likely influenced by the transition to digital distribution.</em>
 </td>
 </tr>
@@ -57,18 +57,18 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-total-america.png""><br>
+    <img src="visualisations/shifts_total_america.png""><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-total-europe.png"><br>
+    <img src="visualisations/shifts_total_europe.png"><br>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-total-japan.png"><br>
+    <img src="visualisations/shifts_total_japan.png"><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-total-other.png"><br>
+    <img src="visualisations/shifts_total_other.png"><br>
 </td>
 </tr>
 <tr>
@@ -87,18 +87,18 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-avg-america.png""><br>
+    <img src="visualisations/shifts_avg_america.png""><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-avg-europe.png"><br>
+    <img src="visualisations/shifts_avg_europe.png"><br>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-avg-japan.png"><br>
+    <img src="visualisations/shifts_avg_japan.png"><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-avg-other.png"><br>
+    <img src="visualisations/shifts_avg_other.png"><br>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/dominating-publishers.png" ><br>
+    <img src="visualisations/dominating_publishers.png" ><br>
     <em>Global video game sales are dominated by a few major publishers, with Nintendo leading at nearly 1.8 billion units, followed by EA and Activision with significantly lower totals. In contrast, the vast majority of publishers account for only a tiny fraction of total sales.</em>
 </td>
 </tr>
@@ -128,18 +128,18 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-america.png""><br>
+    <img src="visualisations/shifts_publisher_america.png""><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-europe.png"><br>
+    <img src="visualisations/shifts_publisher_europe.png"><br>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-japan.png"><br>
+    <img src="visualisations/shifts_publisher_japan.png"><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts-publisher-other.png"><br>
+    <img src="visualisations/shifts_publisher_other.png"><br>
 </td>
 </tr>
 <tr>
