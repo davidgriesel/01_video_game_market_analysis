@@ -30,7 +30,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <br><br>
 
 ## Key Insights
-### Insight 1: Apparent Market Contraction Reflects Estimation Bias During Digital Transition
+### 1. Market Expansion and Decline
+Market contraction due to estimation bias during digital transition.
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
@@ -42,7 +43,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 </table>
 <br>
 
-### Insight 2: Regional Market Dominance Shifted to Europe
+### 2. Regional Market Share
+Europe emerged as the dominant regional market.
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
@@ -53,7 +55,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 </table>
 <br>
 
-### Insight 3: Action Loses Global Preference but Gains Ground in Japan
+### 3. Regional Market Share by Genre
+Action declined globally but gained popularity in Japan.
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -83,7 +86,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 </table>
 <br>
 
-### Insight 4: Regional Genre Efficiency Shifted Over Time
+### 4. Regional Genre Efficiency
+Regional return on investment changed over time.
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
@@ -113,7 +117,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 </table>
 <br>
 
-### Insight 5: The Competitive Landscape is Dominated by a Few Major Publishers
+### 5. Global Competition
+A few major publishers dominated the global competitive landscape.
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
@@ -124,7 +129,8 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 </table>
 <br>
 
-### Insight 6: Publisher Dominance Evolved Globally and Diverged in Japan
+### 6. Regional Competition
+Publisher dominance evolved globally but took a distinct path in Japan.
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
