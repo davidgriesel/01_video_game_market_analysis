@@ -24,7 +24,7 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 ***Note:** Sales figures prior to 2018 are based on extrapolated retail data and estimated digital sales. This introduces potential sampling and estimation biases, meaning figures may not fully represent actual market totals or digital performance.*
 <br><br>
 
-## Links
+## Deliverables
 - [**Presentation**](deliverables/presentation.pdf)
 - [**Presentation**](deliverables/presentation_with_notes.pdf) - including presenter's notes.
 <br><br>
