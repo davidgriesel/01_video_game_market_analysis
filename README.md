@@ -6,7 +6,7 @@ A video game company’s board is preparing its 2017 marketing budget based on t
 <br><br>
 
 ## Tools
-- **Excel** - Data Preparation | Visualisation | Analysis
+- **Excel** - Data Preparation | Analysis | Visualisation
 - **KeyNote** - Presentation
 <br><br>
 
