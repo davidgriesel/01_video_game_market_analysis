@@ -25,8 +25,6 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <br><br>
 
 ## Deliverables
-- [**Excel Workbooks**](workbooks)
-- [**Visualisations**](visualisations)
 - [**Presentation**](deliverables/presentation.pdf)
 - [**Presentation**](deliverables/presentation_with_notes.pdf) - including presenter's notes.
 <br><br>
