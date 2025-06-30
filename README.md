@@ -25,8 +25,7 @@ The original dataset was sourced from VGChartz, covering the period 1980 to 2020
 <br><br>
 
 ## Deliverables
-- [**Data Profiling, Cleaning & EDA**](workbooks/01_profiling_cleaning_eda.xlsx)
-- [**Data Analysis**](workbooks/01_data_analysis.xlsx)
+- [**Excel Workbooks**](workbooks)
 - [**Visualisations**](visualisations)
 - [**Presentation**](deliverables/presentation.pdf)
 - [**Presentation**](deliverables/presentation_with_notes.pdf) - including presenter's notes.
