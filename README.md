@@ -34,7 +34,7 @@ Market contraction due to estimation bias during digital transition.
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/sales_titles_over_time.png" ><br>
+    <img src="images/sales_titles_over_time.png" ><br>
     <em>Sales and title output rose steadily until 2008, then declined sharply amid the rise of digital platforms, reflecting a structural market shift and estimation bias in the dataset.
 </em>
 </td>
@@ -47,7 +47,7 @@ Europe emerged as the dominant regional market.
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/shifts_regional_markets.png" ><br>
+    <img src="images/shifts_regional_markets.png" ><br>
     <em>Europe gradually gained ground and overtook North America in 2016, marking a significant shift in regional market share, though likely influenced by the transition to digital distribution.</em>
 </td>
 </tr>
@@ -59,18 +59,18 @@ Action declined globally but gained popularity in Japan.
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_total_america.png""><br>
+    <img src="images/shifts_total_america.png""><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_total_europe.png"><br>
+    <img src="images/shifts_total_europe.png"><br>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_total_japan.png"><br>
+    <img src="images/shifts_total_japan.png"><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_total_other.png"><br>
+    <img src="images/shifts_total_other.png"><br>
 </td>
 </tr>
 <tr>
@@ -90,18 +90,18 @@ Regional return on investment changed over time.
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_avg_america.png""><br>
+    <img src="images/shifts_avg_america.png""><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_avg_europe.png"><br>
+    <img src="images/shifts_avg_europe.png"><br>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_avg_japan.png"><br>
+    <img src="images/shifts_avg_japan.png"><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_avg_other.png"><br>
+    <img src="images/shifts_avg_other.png"><br>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ A few major publishers dominated the global competitive landscape.
 <table>
 <tr>
 <td align="center" valign="top" width="100%">
-    <img src="visualisations/dominating_publishers.png" ><br>
+    <img src="images/dominating_publishers.png" ><br>
     <em>Global video game sales are dominated by a few major publishers, with Nintendo leading at nearly 1.8 billion units, followed by EA and Activision with significantly lower totals. In contrast, the vast majority of publishers account for only a tiny fraction of total sales.</em>
 </td>
 </tr>
@@ -133,18 +133,18 @@ Publisher dominance evolved globally but took a distinct path in Japan.
 <table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_publisher_america.png""><br>
+    <img src="images/shifts_publisher_america.png""><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_publisher_europe.png"><br>
+    <img src="images/shifts_publisher_europe.png"><br>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_publisher_japan.png"><br>
+    <img src="images/shifts_publisher_japan.png"><br>
 </td>
 <td align="center" valign="top" width="50%">
-    <img src="visualisations/shifts_publisher_other.png"><br>
+    <img src="images/shifts_publisher_other.png"><br>
 </td>
 </tr>
 <tr>
